@@ -36,8 +36,8 @@
   pages:
     - title: Overview
       path: /components
-    #    - title: Button
-    #      path: /components/button
+       - title: Button
+         path: /components/button
     #    - title: Checkbox
     #      path: /components/checkbox
     #    - title: Dropdown
